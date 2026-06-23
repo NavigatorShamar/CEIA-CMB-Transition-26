@@ -10,7 +10,7 @@ This document establishes the empirical validation logs for the $\ell \approx 26
 | **TEST 08A** | LCDM Frequency Audit | **18.3% Frequency** | Standard cosmology fails in over 81% of configurations. |
 | **TEST 09** | Monte Carlo Significance | **p = 0.0259** *(Strict)* | Statistical fluke rejected. Anomaly is non-accidental. |
 | **TEST 10** | Hidden-Target Blind Audit | **S = 0.8333 Score** | High-fidelity target recovery under zero-knowledge conditions. |
-| **TEST 11** | ML-Ensemble Separation | **ROC-AUC: 0.995** | **SENSATION:** Near-perfect real vs. mock world separation. |
+| **TEST 11** | ML-Ensemble Separation | **ROC-AUC: 0.995** | **Walkthrough:** Near-perfect real vs. mock world separation. |
 | **TEST 11A**| Ablation Matrix | **Strictly Robust** | Anomaly is a systemic invariance, not an artifact. |
 
 
