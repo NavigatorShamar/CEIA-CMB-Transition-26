@@ -55,7 +55,7 @@ Die lückenlose Validierung dieses strukturellen Übergangs bei $\ell \approx 26
 1. **Axiomatischer Bruch des Kontinuums:** Das Vorhandensein einer invarianten relationalen Struktur vor jeglicher metrischen Skalierung beweist, dass der kontinuierliche Raum ein makroskopischer Artefaktwert ist.
 2. **Dekonstruktion der Dunklen Energie ($\Lambda$):** Die Annahme der Homogenität und Isotropie auf extrem großen Skalen wird durch die detektierte strukturelle Invarianz widerlegt. $\Lambda$ verliert seinen Status als kosmische Konstante.
 3. **Auflösung der Hubble-Spannung (Hubble Tension):** Die Diskrepanz in der Expansionsrate ist kein lokales Messproblem, sondern ein systematischer Webfehler, der aus der Anwendung eines fehlerhaften CMB-Grundmodells auf reale Beobachtungsdaten resultiert.
-4. Nicht-lineare Phasenänderung statt kontinuierlicher Evolution: Der mathematische Übergang bei $\ell \approx 26$ wird durch einen extrem steilen Skalierungsparameter ($\gamma \approx 21$) charakterisiert. Dies deutet auf eine abrupte, strukturelle Phasenänderung im frühen Universum hin, die mit kontinuierlichen, weichen Inflationsmodellen nicht reproduzierbar ist.
+4. **Nicht-lineare Phasenänderung statt kontinuierlicher Evolution:** Der mathematische Übergang bei $\ell \approx 26$ wird durch einen extrem steilen Skalierungsparameter ($\gamma \approx 21$) charakterisiert. Dies deutet auf eine abrupte, strukturelle Phasenänderung im frühen Universum hin, die mit kontinuierlichen, weichen Inflationsmodellen nicht reproduzierbar ist.
 ---
 
 ## Repository Navigation
