@@ -61,7 +61,7 @@ Die lückenlose Validierung dieses strukturellen Übergangs bei $\ell \approx 26
 ## Repository Navigation
 
 * 📁 `Data/`: Beinhaltet die aggregierten Validierungs-Protokolle, darunter `CEIA_KILL_summary.csv`, `TEST10_hidden_target_family_window_summary.csv` und die Feature-Matrizen zu Test 11/11A.
-* 📁 `Assets/`: Enthält die hochauflösenden grafischen Dashboards und Spektral-Karten aus dem Laptop-Lab.
+* 📁 `Assets/`: Enthält die hochauflösenden grafischen Dashboards und Spektral-Karten aus dem Lab.
 * 📄 `VALIDATION_METRICS.md`: Das nackte, mathematische Fundament. Enthält alle numerischen Beweise von TEST 08 bis TEST 11A.
 * 📄 `ARCHITECTURE.md`: Die Schnittstellen-Spezifikation der Semantik Interferenz Runtime (SIR) und des CEIA-Klassenmodells.
 
